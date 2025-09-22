@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+
+# YOLO models
+*.pt
+*.onnx
+models/
+
+# Images (test files)
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
